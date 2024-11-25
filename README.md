@@ -11,10 +11,7 @@ This SaaS application aids healthcare lab technicians in annotating medical imag
 1. [Features](#features)  
 2. [Tech Stack](#tech-stack)  
 3. [Setup and Deployment](#setup-and-deployment)  
-4. [Project Structure](#project-structure)  
-5. [Image Manipulation Capabilities](#image-manipulation-capabilities)  
-6. [Enhancements and Scaling](#enhancements-and-scaling)  
-7. [Thought Process & Challenges](#thought-process--challenges)  
+
 
 ---
 
